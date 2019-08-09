@@ -6,4 +6,4 @@ Using Windows Presentation Foundation and C#
 
 The program looks like this:
 
-![](screenshot)
+![](screenshot.png)
